@@ -2,9 +2,17 @@
 
 ## Description
 
-Application for simulation of Water Flume for Faculty of Sport Science
+This application is one of "Project Flume : A Sports Science Secret Weapon"
 
-For Chula Expo 2017
+Faculty of Sport Science, Chulalongkorn University
+
+For exhibition in "Chula Expo 2017" from 15 to 19 march 2017
+
+## Tools
+
+Android Studio (Android Application IDE)
+LibGDX (Cross-platform Library)
+Adobe Photoshop (Design)
 
 ## Developer
 
