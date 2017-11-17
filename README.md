@@ -21,7 +21,7 @@ For exhibition in "Chula Expo 2017" from 15 to 19 march 2017
 
 ## Developer
 
-**Design**  : Mr.Sitthichai Saejia  5730625221
+**Design**  : [Mr.Sitthichai Saejia  5730625221](https://github.com/tueytoma)
 
 **Android** : [Mr.Supakrit Paoliwat 5730593821](https://github.com/stepboom)
 
